@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
 
-
 export const ArtistLikeButton = () => {
     const [like, setLike] = useState(false)
     
