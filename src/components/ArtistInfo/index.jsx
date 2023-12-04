@@ -6,11 +6,9 @@ export const ArtistInfo = () => {
     const [data, setData] = useState(musicDb)
     return (
         <>
-    <p>{musicDb[0].artistName}</p>
+    <h1>{musicDb[0].artistName}</h1>
     <p>{musicDb[0].artistMusicType}</p>
     <p>{musicDb[0].albumIntro}</p>
         </>
     )
 }
-
-{/* <img src={musicDb[0].albumCoverArt}></img> */}

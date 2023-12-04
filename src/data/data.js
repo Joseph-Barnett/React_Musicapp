@@ -1,5 +1,5 @@
 export const musicDb = [
-        {artistName: 'NAME = Joe Barnett', artistMusicType: 'TYPE = german scifi speed music', albumIntro: 'INTRO = making sick music beats for the best non stop pops hip hop lovers out there', artistAlbums: [ { albumName: 'chickenman, he is acoming', albumReleaseDate: '2023', albumCoverArt: 'https://drive.google.com/uc?export=view&id=1ZDfLfurBCXpoNBaPo53JiwV-JFwK_tei', artistSongs: ['chicken man', 'iamachickenboy', 'iamachickenerboy']}]}
+        {artistName: 'Joe Barnett', artistMusicType: 'german scifi speed music', albumIntro: 'making sick music beats for the best non stop pops hip hop lovers out there', artistAlbums: [ { albumName: 'chickenman, he is acoming', albumReleaseDate: '2023', albumCoverArt: 'https://drive.google.com/uc?export=view&id=1ZDfLfurBCXpoNBaPo53JiwV-JFwK_tei', artistSongs: ['chicken man', 'iamachickenboy', 'iamachickenerboy']}]}
     ]
 
 
