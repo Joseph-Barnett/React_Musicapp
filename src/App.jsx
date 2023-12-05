@@ -1,5 +1,6 @@
 import React from 'react'
 import { Routes, Route } from 'react-router-dom';
+import { ArtistDiscovery, ArtistForm, ArtistInfo, ArtistLikeButton } from './components';
 import * as Pages from './pages'
 import './App.css'
 
