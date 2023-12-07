@@ -4,7 +4,7 @@ import { musicDb } from '../../data/data'
 import { ArtistDiscovery } from '../../components/ArtistDiscovery';
 import { ArtistForm } from '../../components/ArtistForm';
 import { BackButton } from '../../components/BackButton'
-import '../home/home.css' 
+import '../Home/home.css' 
 
 
 export function Artists() {
